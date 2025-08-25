@@ -1,2 +1,32 @@
-# INC
-It is the base repository for the experimental iD-An project, which aims to create a digital corporation, legal and independent of its owners, with limited liabilities that protect the assets created.
+#iD-An Project
+
+Experimental project focused on digital identity, independent domains, and new forms of web interaction.
+
+## 🔑 Principles
+- **Independence**:
+- **Legality**:
+- **Scalability**:
+- **Perpetuity**
+
+## 📦 Structure
+- `/docs` →
+- `/core` →
+- `/examples` →
+- `/tests` →
+
+## 🌍 Roadmap
+- [ ] Standard
+- [ ] Protocol
+- [ ] Domains
+- [ ] API
+- [ ] Documentation
+
+## 🤝 Contribution
+- [ ] Standard
+- [ ] Protocol
+- [ ] Domains
+- [ ] API
+- [ ] Documentation
+
+## 📜 License
+// SPQR-License-Identifier: iD-An
