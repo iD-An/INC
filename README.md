@@ -1,4 +1,4 @@
-##iD-An
+## iD-An
 
 Experimental project focused on digital identity, independent domains, and new forms of web interaction.
 
@@ -15,18 +15,11 @@ Experimental project focused on digital identity, independent domains, and new f
 - `/tests` →
 
 ## 🌍 Roadmap
-- [ ] Standard
-- [ ] Protocol
-- [ ] Domains
-- [ ] API
-- [ ] Documentation
-
-## 🤝 Contribution
-- [ ] Standard
-- [ ] Protocol
-- [ ] Domains
-- [ ] API
-- [ ] Documentation
+- Standard
+- Protocol
+- Domains
+- API
+- Documentation
 
 ## 📜 License
 // SPQR-License-Identifier: iD-An
